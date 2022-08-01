@@ -297,7 +297,7 @@ input{
     justify-content: center;
     align-items: center;
     display: none;
-    z-index: 9999999999999;
+    z-index: 9999999999999 !important;
 }
 .nav-close{
     font-size: 1.5rem;
@@ -1101,7 +1101,7 @@ textarea{
     }
     .nav-tog{
         display: flex;
-        z-index: 999999999;
+        z-index: 9999999999999999999999999999999 !important;
     }
 
     .about-container{
