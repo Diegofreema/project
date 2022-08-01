@@ -294,10 +294,10 @@ input{
     border-radius: .25rem;
     background-color: var(--skin-color);
     color: var(--title-color);
-    display: flex;
     justify-content: center;
     align-items: center;
     display: none;
+    z-index: 9999999999999;
 }
 .nav-close{
     font-size: 1.5rem;
