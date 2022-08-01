@@ -176,7 +176,7 @@ input{
     display: none;
 }
 .home{
-    background: url(../image/hood.jpg)no-repeat;
+    background: url(./image/hood.jpg)no-repeat;
     background-size: cover;
     height: 100vh;
     background-position: center center;
