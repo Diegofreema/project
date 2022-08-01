@@ -1253,7 +1253,7 @@ textarea{
         padding: 7rem 0 2rem;
     }
     .home-img{
-        display: block;
+        display: none;
         width: 250px;
         justify-self: center;
     }
@@ -1319,9 +1319,7 @@ textarea{
         margin-right: var(--mb-1);
     }
 
-    .home-img {
-        width: 200px;
-    }
+   
     .home-title{
 
         font-size: var(--h1-font-size);
