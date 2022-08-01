@@ -1101,6 +1101,7 @@ textarea{
     }
     .nav-tog{
         display: flex;
+        z-index: 999999999;
     }
 
     .about-container{
@@ -1246,7 +1247,7 @@ textarea{
         left: 1.5rem
     }
     .home {
-        background-image: none;
+      
         height: initial;
         align-items: initial;
         padding: 7rem 0 2rem;
