@@ -297,7 +297,7 @@ input{
     justify-content: center;
     align-items: center;
     display: none;
-    z-index: 9999999999999 !important;
+    z-index: 9999999999999;
 }
 .nav-close{
     font-size: 1.5rem;
