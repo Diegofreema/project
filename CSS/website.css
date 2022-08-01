@@ -1060,7 +1060,7 @@ textarea{
     }
     .sidebar{
         width: 100%;
-        z-index: 999;
+        z-index: 999999999999999999999999999999999999999999999999;
         transform: translateX(-100%);
 
         
