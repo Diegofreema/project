@@ -323,6 +323,7 @@ input{
 }
 .section{
     padding: 6.5rem 0 2rem;
+    height: 100vh;
 }
 .section-title{
     text-align: center;
